@@ -20,30 +20,7 @@ Users can:
 - Generate a QR code that links to the verification page.
 - Scan the QR code to quickly verify using a mobile device.
 
-##  Folder Structure
-project-root/
-│
-├── contracts/
-│ └── ProductVerification.sol
-│
-├── data/
-│ └── blockchain.json
-│
-├── frontend/
-│ ├── index.html
-│ ├── app.js
-│ ├── style.css
-│ ├── abi.json
-│
-├── qr/
-│ ├── qrcode.html
-│ └── qrcode.js
-│
-├── screens/
-│ ├── 1.png
-│ └── 2.png
-│
-└── README.md
+
 
 ## Technologies Used
 - HTML5, CSS3, JavaScript
