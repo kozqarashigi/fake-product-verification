@@ -1,0 +1,44 @@
+[
+  {
+    "productId": "1234567890",
+    "productName": "Adidas Running Shoes",
+    "manufacturer": "Adidas Co.",
+    "origin": "Germany",
+    "authentic": true
+  },
+  {
+    "productId": "9876543210",
+    "productName": "Apple AirPods Pro",
+    "manufacturer": "Apple Inc.",
+    "origin": "USA",
+    "authentic": true
+  },
+  {
+    "productId": "000000",
+    "productName": "Basic T-Shirt",
+    "manufacturer": "Generic Wear",
+    "origin": "Bangladesh",
+    "authentic": false
+  },
+  {
+    "productId": "111111",
+    "productName": "Smartwatch",
+    "manufacturer": "Unknown",
+    "origin": "China",
+    "authentic": false
+  },
+  {
+    "productId": "222222",
+    "productName": "Nike Sneakers",
+    "manufacturer": "Nike Inc.",
+    "origin": "Vietnam",
+    "authentic": true
+  },
+  {
+    "productId": "333333",
+    "productName": "Bluetooth Speaker",
+    "manufacturer": "AudioTech",
+    "origin": "South Korea",
+    "authentic": true
+  }
+]
